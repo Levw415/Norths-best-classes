@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- first link -->
+    <link rel="stylesheet" type="text/CSS" href="Lev Weigel CSS.css">
+</head>
+    <body>
+<h1 class="monterey"> Monterey</h1>
+<!-- First paragraph -->
+<p class="sites"> Monterey is my favorite city in all of the world.
+It has many sites like pebble beach and 17 mile drive.
+Although Monterey can be a little expensive it is completely worth the money and if you wanna see some cars Monterey is the right place to be.
+You can find all sorts of cars in Monterey expecially during Monterey Car Week, where all of the fancy, old, new, and expensive cars go and drive around the different attractions.</p>
+<!-- First image -->
+<img src="https://media-production.lp-cdn.com/cdn-cgi/image/format=auto,quality=85,fit=scale-down,width=1280/https://media-production.lp-cdn.com/media/gxkq6cbyvnpgqigk1nas"
+        width="300px" alt="caras" height="200px">
+<!-- h2 tag -->
+<h2 class="restaurant">Favorite restaurant</h2>
+<!-- Second paragraph -->
+<p class="favorite"> My favorite restaurant is called schooners Monterey. 
+They have a lot of good food and they have a beautiful oceanside veiw of the Pacific.
+You can also see whales from outside of restaurant.</p>
+<!-- h2 tag -->
+<h2 class="thing">Favorite thing to do</h2>
+<!-- Third paragraph -->
+<p class="LagunaSeca"> My favorite thing to do was drive around 17 mile drive and go to Laguna Seca</p>
+<!-- h2 tag -->
+<h2> My favorite memory.</h2>
+<!-- forth paragraph -->
+<p class="race"> I loved going to the Laguna Secca racetrack and watched my favorite type of racing. I watched the NTT and NXT versions of the racing and got to see and meet some of my favorite drivers.</p>
+<!-- second link -->
+<link><a href="https://www.seemonterey.com/">Learn more
+</a>
+<!-- h1 tag -->
+<h1> Cars</h1>
+<!-- h2 tag -->
+<h2> the famous turn</h2>
+<!-- h3 tag -->
+<h3> The best race</h3>
+<!-- image -->
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWFYhnPCenwBT7tEUZ1eS3LYZD-bDBAFVGEw&s"
+        width="300px" alt="caras" height="200px">
+<h1 class: .fluffy>The place</h1>
+<h1 class: .square>The corkscrew</h1>
+<button class:.button> About Me</button>
+</body>
+</html>
