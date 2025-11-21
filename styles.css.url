@@ -1,2 +1,117 @@
-[InternetShortcut]
-URL=https://docs.google.com/document/d/1Fc7F1xMzFrLrA980adp2trFVpPT0O8X4jET9-FgE_5w/edit?usp=sharing_eil&ts=691b8b54
+body {
+background-image: radial-gradient(lightblue, turquoise, lavender, lightblue, turquoise, lavender,turquoise, lightblue, lavender,lightblue, turquoise);
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+/* h1 tag
+*/ 
+h1 {
+background-image: linear-gradient(yellowgreen, lavender);
+color:white;
+font-family: impact;
+background-color:gold;
+text-shadow: 10px 10px 2px black;
+border-radius: 25px 35px 25px;
+background-color: #4f76b5;
+box-shadow: 30px 30px 10px lightgreen ;
+padding: 60px;
+background-color: aqua;
+border-color: lightblue;
+border-style: ridge;
+border-width: medium;
+}
+h1:hover {
+background-color: teal;
+opacity: 0.5;
+}
+/* h2 tag*/
+h2 {
+color:black;
+font-family: cursive;
+background-color: gold;
+text-shadow: 50px 50px 15px lightcoral;
+border-radius: 75px;
+background-color: aqua;
+box-shadow: 20px 20px 10px;
+margin:  20px;
+background-color: aliceblue;
+opacity: 0.5;
+}
+h2:hover {
+background-color: red;
+}
+/* paragraph tag */
+p {
+color: black;
+font-family: cursive;
+background-color: gold;
+text-align: center;
+text-shadow: 25px 25px 10px navy;
+border-radius: 50px;
+background-color: aquamarine;
+box-shadow: 20px 25px 30px;
+padding: 40px;
+background-color: violet;
+opacity: 0.5;
+}
+/* image tag */
+img {
+    border-radius: 45px;
+}
+/* h3 tag */
+h3 {
+    color:white;
+font-family: impact;
+background-color:gold;
+text-shadow: 10px 10px 2px black;
+border-radius: 25px 35px 25px;
+background-color: cyan;
+box-shadow: 30px 30px 10px lightgreen ;
+margin-left: 35px;
+background-color: aquamarine;
+opacity: 0.5;
+}
+.monterey {
+color: hotpink;
+font-family: cursive;
+}   
+.restaurant {
+color: #6fe2c5;
+font-family: cursive;
+}
+.favorite {
+color:navy;
+font-family: cursive;
+}
+.sites {
+color: purple;
+font-family: cursive;
+}
+.thing {
+color:#6fc5e2;
+}
+.LagunaSeca {
+color: purple;
+font-family: cursive;
+}
+.race {
+color: #6fe2c5;
+font-family: cursive;
+}
+.race:hover {
+background-color: red;
+}
+.fluffy{
+margin-top: 30px;
+margin-bottom: 50px;
+padding-left: 70px;
+padding-right: 90px;
+}
+.square{
+margin-left: 20px;
+margin-bottom: 40px;
+padding-top: 60px;
+padding-bottom: 8px;
+}
+.button{ 
+    
